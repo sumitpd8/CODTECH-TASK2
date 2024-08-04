@@ -75,7 +75,7 @@ Enter the target (IP address or domain): scanme.nmap.org
 
 Scanning scanme.nmap.org for open ports...
 
-Open ports on scanme.nmap.org: [22, 80]
+Open ports on scanme.nmap.org: [22, 25, 53, 80]
 
 Checking http://scanme.nmap.org for outdated software versions...
 
