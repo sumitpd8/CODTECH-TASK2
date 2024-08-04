@@ -6,7 +6,7 @@ ID : CT8CSEH1724
 
 Domain: Cyber Security & Ethical Hacking
 
-Duration: July to August 2024
+Duration: July to September 2024
 
 Mentor: Muzammil Ahmed
 
