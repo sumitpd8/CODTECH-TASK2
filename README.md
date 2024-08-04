@@ -35,8 +35,8 @@ Vulnerability Scanner is a simple tool that scans a network or website for commo
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/Akashhorambe/CODTECH-Task2.git
-    cd Vulnerability_Scanner
+    git clone https://github.com/sumitpd8/CODTECH-TASK2.git
+    cd Scanner
     ```
 
 2. **Install the required Python libraries:**
